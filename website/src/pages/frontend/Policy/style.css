@@ -1,0 +1,18 @@
+.content-item{
+    margin: 30px 0px;
+}
+.conten-item-text{
+    width: 80%;
+}
+.img-content{
+    margin-left: 30px;
+}
+.gioi-thieu .content-item,h6,#p{
+    font-family: "Playfair Display", serif;
+}
+#title-gt{
+    font-family: "Playfair Display", serif;
+}
+.gioi-thieu h3{
+    font-size: 30px;
+}

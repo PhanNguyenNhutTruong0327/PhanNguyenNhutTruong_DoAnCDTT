@@ -1,0 +1,26 @@
+/* tin tuc */
+.post-image{
+    overflow: hidden;
+}
+.post-image img{
+    width: 100%;
+    height: 100%;
+    transition: transform 0.8s;
+}
+.post-image:hover img{
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+
+
+/* css product list */
+.list-item-detail{
+    display: -webkit-box;
+    margin-bottom: 5px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+}

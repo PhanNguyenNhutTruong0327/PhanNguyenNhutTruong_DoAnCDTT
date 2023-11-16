@@ -1,0 +1,16 @@
+.content {
+    position: relative;
+  }
+  
+  .old-element {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .new-element {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    /* Các thuộc tính khác cho phần tử mới */
+  }
